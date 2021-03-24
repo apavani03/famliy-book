@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    } 
+    p {
+    font-size: 40px;
+    }
+    #p1 {
+    font-size: 80px;
+    }
+    #image_album {
+         border-style:solid;
+          border-color:#689F38 ;
+          border: 1px;
+           border-radius: 80px;
+          padding: 5px;
+          width: 450px;
+        }
+
+    
