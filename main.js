@@ -9,7 +9,7 @@
          document.getElementById("names").innerHTML = name[i];
           document.getElementById("image_album").src = images[i];
            i++; 
-         document.getElementById("audio").play();
+   
          }
     
     
